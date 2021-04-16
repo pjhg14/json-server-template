@@ -6,7 +6,8 @@
             "type": "test",
             "image": "no-img",
             "hours": 0,
-            "handicap": true
+            "handicap": true,
+            "rating": 0
         }
     ],
     "users": [
@@ -18,6 +19,7 @@
     "comments": [
         {
             "id": 1,
+            "author": "testificate",
             "content": "lorem ipsum",
             "restroomId": 1
         }
