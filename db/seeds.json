@@ -2,7 +2,7 @@
     "restrooms": [
         {
             "id": 1,
-            "addaress": "Bryant Park @ 58 W 42nd St",
+            "address": "Bryant Park @ 58 W 42nd St",
             "borough": "Manhattan",
             "type": "Public",
             "image": "no-img",
@@ -190,6 +190,7 @@
     "comments": [
         {
             "id": 1,
+            "author": "testificate",
             "content": "lorem ipsum",
             "restroomId": 1
         }
