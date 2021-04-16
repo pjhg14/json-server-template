@@ -2,12 +2,14 @@
     "restrooms": [
         {
             "id": 1,
-            "location": "test",
+            "borough": "",
+            "address": "test",
             "type": "test",
             "image": "no-img",
             "hours": 0,
             "handicap": true,
-            "rating": 0
+            "likes": 0,
+            "dislikes": 0
         }
     ],
     "users": [
