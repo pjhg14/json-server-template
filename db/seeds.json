@@ -2,169 +2,210 @@
     "restrooms": [
         {
             "id": 1,
-            "address": "Bryant Park @ 58 W 42nd St",
+            "name": "Bryant Park",
+            "address": "58 W 42nd St",
             "borough": "Manhattan",
             "type": "Public",
             "image": "no-img",
             "hours": "Daily: 7am-10pm",
-            "handicap": true
+            "handicap": true,
+            "likes": 0,
+            "dislikes": 0
         },
         {
             "id": 2,
-            "location": "125th St. Subway Station",
+            "name": "",
+            "address": "125th St. Subway Station",
             "borough": "Manhattan",
             "type": "Public",
             "image": "no-img",
             "hours": "7am- 11pm",
-            "handicap": false
+            "handicap": false,
+            "likes": 0,
+            "dislikes": 0
         },
         {
             "id": 3,
-            "location": "McDonald's @ 34th St and 10th Ave.",
+            "name": "McDonald's",
+            "address": "34th St and 10th Ave.",
             "borough": "Manhattan",
             "type": "Fast-Food",
             "image": "no-img",
             "hours": "24 hours",
-            "handicap": false
+            "handicap": false,
+            "likes": 0,
+            "dislikes": 0
         },
         {
             "id": 4,
-            "location": "Whole Foods @ 214 3rd St",
+            "name": "Whole Foods",
+            "address": "214 3rd St",
             "borough": "Brooklyn",
             "type": "Grocery",
             "image": "no-img",
             "hours": "Daily: 8am-11pm",
-            "handicap": false
+            "handicap": false,           
+            "likes": 0,
+            "dislikes": 0
         },
         {
             "id": 5,
-            "location": "Furman's Coffee @ 547 Nostrand Ave",
+            "name": "Furman's Coffee",
+            "address": "547 Nostrand Ave",
             "borough": "Brooklyn",
             "type": "Coffee Shop",
             "image": "no-img",
             "hours": "Mon-Thurs 6am-5pm, Fri 6am-5pm, Sat 7am-3:30pm, Sun 7am-5pm",
-            "handicap": false
+            "handicap": false,
+            "likes": 0,
+            "dislikes": 0
         },
         {
             "id": 6,
-            "location": "Starbucks @ 6423 18th Ave",
+            "address": "Starbucks @ 6423 18th Ave",
             "borough": "Brooklyn",
             "type": "Coffee Shop",
             "image": "no-img",
             "hours": 0,
-            "handicap": false
+            "handicap": false,
+            "likes": 0,
+            "dislikes": 0
         },
         {
             "id": 7,
-            "location": "Pathmark @ 1525 Albany Ave.",
+            "address": "Pathmark @ 1525 Albany Ave.",
             "borough": "Brooklyn",
             "type": "Grocery",
             "image": "no-img",
             "hours": "Daily: 6am - 10pm",
-            "handicap": false
+            "handicap": false,
+            "likes": 0,
+            "dislikes": 0
         },
         {
             "id": 8,
-            "location": "Bronx Park @ E219 St & W/S Bronx Park",
+            "address": "Bronx Park @ E219 St & W/S Bronx Park",
             "borough": "Bronx",
             "type": "Public",
             "image": "no-img",
             "hours": "park hours",
-            "handicap": false
+            "handicap": false,
+            "likes": 0,
+            "dislikes": 0
         },
         {
             "id": 9,
-            "location": "Virginia Playground @ Virginia Ave & McGraw Ave.",
+            "address": "Virginia Playground @ Virginia Ave & McGraw Ave.",
             "borough": "Bronx",
             "type": "Public",
             "image": "no-img",
             "hours": "park hours",
-            "handicap": false
+            "handicap": false,
+            "likes": 0,
+            "dislikes": 0
         },
         {
             "id": 10,
-            "location": "Lost Battalion Hall @ 93-29 Queens Blvd, Rego Park",
+            "address": "Lost Battalion Hall @ 93-29 Queens Blvd, Rego Park",
             "borough": "Queens",
             "type": "Public",
             "image": "no-img",
             "hours": "M-F 8am-10pm, Saturday: 9am-5pm",
-            "handicap": true
+            "handicap": true,
+            "likes": 0,
+            "dislikes": 0
         },
         {
             "id": 11,
-            "location": "Hoffman Park @ Hoffman Dr.",
+            "address": "Hoffman Park @ Hoffman Dr.",
             "borough": "Queens",
             "type": "Public",
             "image": "no-img",
             "hours": "6am - 9pm",
-            "handicap": false
+            "handicap": false,
+            "likes": 0,
+            "dislikes": 0
         },
         {
             "id": 12,
-            "location": "New Yorker Hotel @ 481 8th Ave",
+            "address": "New Yorker Hotel @ 481 8th Ave",
             "borough": "Manhattan",
             "type": "hotel",
             "image": "no-img",
             "hours": "24 hours",
-            "handicap": true
+            "handicap": true,
+            "likes": 0,
+            "dislikes": 0
         },
         {
             "id": 13,
-            "location": "Barnes & Noble @ 33 E17th St",
+            "address": "Barnes & Noble @ 33 E17th St",
             "borough": "Manhattan",
             "type": "Bookstore",
             "image": "no-img",
             "hours": "Mon-Sat 9am-9pm, Sun 10am-8pm",
-            "handicap": true
+            "handicap": true,
+            "likes": 0,
+            "dislikes": 0
         },
         {
             "id": 14,
-            "location": "Strand @ Columbus Ave.",
+            "address": "Strand @ Columbus Ave.",
             "borough": "Manhattan",
             "type": "Bookstore",
             "image": "no-img",
             "hours": "11am - 7pm ",
-            "handicap": false
+            "handicap": false,
+            "likes": 0,
+            "dislikes": 0
         },
         {
             "id": 15,
-            "location": "Staten Island Mall @ 2655 Richmond Ave",
+            "address": "Staten Island Mall @ 2655 Richmond Ave",
             "borough": "Staten Island",
             "type": "Mall",
             "image": "no-img",
             "hours": "Mon-Thurs 11am-7pm, Fri-Sat 11am-8pm, Sun 11am-6pm",
-            "handicap": true
+            "handicap": true,
+            "likes": 0,
+            "dislikes": 0
         },
         {
             "id": 16,
-            "location": "Starbucks @ 480 Forest Ave.",
+            "address": "Starbucks @ 480 Forest Ave.",
             "borough": "Staten Island",
             "type": "Coffee Shop",
             "image": "no-img",
             "hours": "daily: 6am-8pm",
-            "handicap": false
+            "handicap": false,
+            "likes": 0,
+            "dislikes": 0
         },
         {
             "id": 17,
-            "location": "McDonald's @ 1101 E. Tremont Ave.",
+            "address": "McDonald's @ 1101 E. Tremont Ave.",
             "borough": "Bronx",
             "type": "test",
             "image": "no-img",
             "hours": "daily: 5am-11pm",
-            "handicap": false
+            "handicap": false,
+            "likes": 0,
+            "dislikes": 0
         },
         {
             "id": 18,
-            "location": "Queens Center @ 90-15 Queens Blvd",
+            "address": "Queens Center @ 90-15 Queens Blvd",
             "borough": "Queens",
             "type": "Mall",
             "image": "no-img",
             "hours": "Sun-Thurs 11am-7pm, Fri-Sat 11am-8pm",
-            "handicap": true
+            "handicap": true,
+            "likes": 0,
+            "dislikes": 0
         },
         {
             "id": 19,
-            "location": "Clove Lake Park @ Clove Lakes Park",
+            "address": "Clove Lake Park @ Clove Lakes Park",
             "borough": "Staten Island",
             "type": "publc",
             "image": "no-img",
@@ -173,12 +214,14 @@
         },
         {
             "id": 20,
-            "location": "Manhattan Mall @ 33rd St & 6th Ave.",
+            "address": "Manhattan Mall @ 33rd St & 6th Ave.",
             "borough": "Manhattan",
             "type": "Mall",
             "image": "no-img",
             "hours": "Sun-Fri 9am-9:30pm, Sat 10am-8:30pm",
-            "handicap": true
+            "handicap": true,
+            "likes": 0,
+            "dislikes": 0
             }
     ],
     "users": [
