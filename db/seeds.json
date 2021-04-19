@@ -14,8 +14,8 @@
         },
         {
             "id": 2,
-            "name": "",
-            "address": "125th St. Subway Station",
+            "name": "125th St. Subway Station",
+            "address": "125th between St. Nicholas Ave & Frederick Douglass Blvd.",
             "borough": "Manhattan",
             "type": "Public",
             "image": "no-img",
@@ -62,7 +62,8 @@
         },
         {
             "id": 6,
-            "address": "Starbucks @ 6423 18th Ave",
+            "name" : "Starbucks",
+            "address": "6423 18th Ave",
             "borough": "Brooklyn",
             "type": "Coffee Shop",
             "image": "no-img",
@@ -73,7 +74,8 @@
         },
         {
             "id": 7,
-            "address": "Pathmark @ 1525 Albany Ave.",
+            "name" : "Pathmark",
+            "address": "1525 Albany Ave.",
             "borough": "Brooklyn",
             "type": "Grocery",
             "image": "no-img",
@@ -84,7 +86,8 @@
         },
         {
             "id": 8,
-            "address": "Bronx Park @ E219 St & W/S Bronx Park",
+            "name": "Bronx Park",
+            "address": "E219 St & W/S Bronx Park",
             "borough": "Bronx",
             "type": "Public",
             "image": "no-img",
@@ -95,7 +98,8 @@
         },
         {
             "id": 9,
-            "address": "Virginia Playground @ Virginia Ave & McGraw Ave.",
+            "name": "Virginia Playground",
+            "address": "Virginia Ave & McGraw Ave.",
             "borough": "Bronx",
             "type": "Public",
             "image": "no-img",
@@ -106,7 +110,8 @@
         },
         {
             "id": 10,
-            "address": "Lost Battalion Hall @ 93-29 Queens Blvd, Rego Park",
+            "name": "Lost Battalion Hall",
+            "address": "93-29 Queens Blvd, Rego Park",
             "borough": "Queens",
             "type": "Public",
             "image": "no-img",
@@ -117,7 +122,8 @@
         },
         {
             "id": 11,
-            "address": "Hoffman Park @ Hoffman Dr.",
+            "name": "Hoffman Park",
+            "address": "Hoffman Dr.",
             "borough": "Queens",
             "type": "Public",
             "image": "no-img",
@@ -128,7 +134,8 @@
         },
         {
             "id": 12,
-            "address": "New Yorker Hotel @ 481 8th Ave",
+            "name": "New Yorker Hotel",
+            "address": "481 8th Ave",
             "borough": "Manhattan",
             "type": "hotel",
             "image": "no-img",
@@ -139,7 +146,8 @@
         },
         {
             "id": 13,
-            "address": "Barnes & Noble @ 33 E17th St",
+            "name": "Barnes & Noble",
+            "address": "33 E17th St",
             "borough": "Manhattan",
             "type": "Bookstore",
             "image": "no-img",
@@ -150,7 +158,8 @@
         },
         {
             "id": 14,
-            "address": "Strand @ Columbus Ave.",
+            "name": "Strand",
+            "address": "Columbus Ave.",
             "borough": "Manhattan",
             "type": "Bookstore",
             "image": "no-img",
@@ -161,7 +170,8 @@
         },
         {
             "id": 15,
-            "address": "Staten Island Mall @ 2655 Richmond Ave",
+            "name": "Staten Island Mall",
+            "address": "2655 Richmond Ave",
             "borough": "Staten Island",
             "type": "Mall",
             "image": "no-img",
@@ -172,7 +182,8 @@
         },
         {
             "id": 16,
-            "address": "Starbucks @ 480 Forest Ave.",
+            "name": "Starbucks",
+            "address": "480 Forest Ave.",
             "borough": "Staten Island",
             "type": "Coffee Shop",
             "image": "no-img",
@@ -183,7 +194,8 @@
         },
         {
             "id": 17,
-            "address": "McDonald's @ 1101 E. Tremont Ave.",
+            "name": "McDonald's",
+            "address": "1101 E. Tremont Ave.",
             "borough": "Bronx",
             "type": "test",
             "image": "no-img",
@@ -194,7 +206,8 @@
         },
         {
             "id": 18,
-            "address": "Queens Center @ 90-15 Queens Blvd",
+            "name": "Queens Center",
+            "address": "90-15 Queens Blvd",
             "borough": "Queens",
             "type": "Mall",
             "image": "no-img",
@@ -205,7 +218,8 @@
         },
         {
             "id": 19,
-            "address": "Clove Lake Park @ Clove Lakes Park",
+            "name": "Clove Lakes Park",
+            "address": "Clove Lakes Park",
             "borough": "Staten Island",
             "type": "publc",
             "image": "no-img",
@@ -214,7 +228,8 @@
         },
         {
             "id": 20,
-            "address": "Manhattan Mall @ 33rd St & 6th Ave.",
+            "name": "Manhattan Mall",
+            "address": "33rd St & 6th Ave.",
             "borough": "Manhattan",
             "type": "Mall",
             "image": "no-img",
