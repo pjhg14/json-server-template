@@ -244,14 +244,113 @@
             {
                 "id": 1,
                 "name": "testificate"
+            },
+            {
+                "id": 2,
+                "name": "testificate"
             }
         ],
         "comments": [
             {
                 "id": 1,
-                "author": "testificate",
-                "content": "lorem ipsum",
+                "author": "Thor",
+                "content": "Super clean so huge respecto to the people who workt there",
                 "restroomId": 1
+            },
+            {
+                "id": 2,
+                "author": "Dr. Rachel Smerd",
+                "content": "Definitely didn't expect a public restroom to be so clean, so sleek and so classy in the heart of NYC. Flowers, arts, marbles, and classical/soothing music plays in the restroom...",
+                "restroomId": 1
+            },
+            {
+                "id": 3,
+                "author": "Sean Penn",
+                "content": "WHEN YOU GOTTA GO, YOU GOTTA GO",
+                "restroomId": 2
+            },
+            {
+                "id": 4,
+                "author": "Sir LanceAlot ",
+                "content": "it's usually locked but saved me from some embarrassment ",
+                "restroomId": 2
+            },{
+                "id": 5,
+                "author": "Malcolm Runganga",
+                "content": "never have any toilet paper",
+                "restroomId": 3
+            },
+            {
+                "id": 6,
+                "author": "Joexzilla",
+                "content": "no real place to hold my mcflurry by the sink.",
+                "restroomId": 3
+            },
+            {
+                "id": 7,
+                "author": "Amelia G",
+                "content": "Nice Whole Foods, and very big. Got me a nice rotisserie chicken on my way out of the bathroom.",
+                "restroomId": 4
+            },
+            {
+                "id": 8,
+                "author": "Roger Guan",
+                "content": "Really crowded inside, no limits on the number of people.",
+                "restroomId": 4
+            },
+            {
+                "id": 9,
+                "author": "Emani C.",
+                "content": "Bathrooms were clean! But I love whole foods to death but ever since Amazon has owned it the vegan cake options in the bakery have been taken away , and the coupon Amazon gives only takes off a tiny amount . The prices seem to have increased as well . I was a loyal customer to Whole Foods but if your gonna take away options for us vegans and leave us with the frozen dry expired dessert foods to survive off of I’ll take my money else where along with my friends and other family members who so happen to be vegan as well. It’s important to take all customers into consideration.",
+                "restroomId": 4
+            },
+            {
+                "id": 10,
+                "author": "Eric C.",
+                "content": "It's a great Starbucks considering the high density area it's in. The staff is incredibly efficient and polite, needed a code to get into the restroom.",
+                "restroomId": 6
+            },
+            {
+                "id": 11,
+                "author": "Jane Withers",
+                "content": "There's only one bathroom, which is fine sicne it's a small shop. FURMANS NOW SELLS PLANTS",
+                "restroomId": 5
+            },
+            {
+                "id": 2,
+                "author": "Dr. Rachel Smerd",
+                "content": "Restroom at my office was out of order.",
+                "restroomId": 8
+            },
+            {
+                "id": 12,
+                "author": "Mr. Han",
+                "content": "It was okay for a park restroom",
+                "restroomId": 9
+            },
+            {
+                "id": 12,
+                "author": "Sydney",
+                "content": "i was a tourist in new york and found it really difficult to find restroom. workers here were very accomadating",
+                "restroomId": 10
+            },
+            {
+                "id": 13,
+                "author": "Lily",
+                "content": "Always my go-to spot when I'm in the area!",
+                "restroomId": 13
+            },
+            {
+                "id": 2,
+                "author": "Stephanie Rogers",
+                "content": "I usually spend most of the day here. I have a small bladder so I frequent the toilet, attendants do a great job keeping it clean!",
+                "restroomId": 15
+            },
+            {
+                "id": 2,
+                "author": "Chansey",
+                "content": "beautiful area. well maintained restrooms throughout.",
+                "restroomId": 19
             }
         ]
     }
