@@ -1,356 +1,357 @@
 {
-        "restrooms": [
-            {
-                "id": 1,
-                "name": "Bryant Park",
-                "address": "58 W 42nd St",
-                "borough": "Manhattan",
-                "type": "Public",
-                "image": "/rrphotos/Bryant-Park-Bathrooms-Landmark-Beautiful-42nd-Street-Redesign-Grand-Opening-Manhattan-Park-NYC.jpg",
-                "handicap": true,
-                "likes": 0,
-                "dislikes": 0
-            },
-            {
-                "id": 2,
-                "name": "125th St. Subway Station",
-                "address": "125th between St. Nicholas Ave & Frederick Douglass Blvd.",
-                "borough": "Manhattan",
-                "type": "Public",
-                "image": "/rrphotos/125th subway.jpeg",
-                "hours": "7am- 11pm",
-                "handicap": false,
-                "likes": 0,
-                "dislikes": 0
-            },
-            {
-                "id": 3,
-                "name": "McDonald's",
-                "address": "34th St and 10th Ave.",
-                "borough": "Manhattan",
-                "type": "Fast-Food",
-                "image": "/rrphotos/Mcdonalds34.jpg",
-                "hours": "24 hours",
-                "handicap": false,
-                "likes": 0,
-                "dislikes": 0
-            },
-            {
-                "id": 4,
-                "name": "Whole Foods",
-                "address": "214 3rd St",
-                "borough": "Brooklyn",
-                "type": "Grocery",
-                "image": "/rrphotos/wholefoodsbk.jpeg",
-                "hours": "Daily: 8am-11pm",
-                "handicap": false,           
-                "likes": 0,
-                "dislikes": 0
-            },
-            {
-                "id": 5,
-                "name": "Furman's Coffee",
-                "address": "547 Nostrand Ave",
-                "borough": "Brooklyn",
-                "type": "Coffee Shop",
-                "image": "/rrphotos/furmansbk.jpeg",
-                "hours": "Mon-Thurs 6am-5pm, Fri 6am-5pm, Sat 7am-3:30pm, Sun 7am-5pm",
-                "handicap": false,
-                "likes": 0,
-                "dislikes": 0
-            },
-            {
-                "id": 6,
-                "name" : "Starbucks",
-                "address": "6423 18th Ave",
-                "borough": "Brooklyn",
-                "type": "Coffee Shop",
-                "image": "/rrphotos/starbucksbk.jpeg",
-                "hours": 0,
-                "handicap": false,
-                "likes": 0,
-                "dislikes": 0
-            },
-            {
-                "id": 7,
-                "name" : "Pathmark",
-                "address": "1525 Albany Ave.",
-                "borough": "Brooklyn",
-                "type": "Grocery",
-                "image": "/rrphotos/pathmarkbk.jpeg",
-                "hours": "Daily: 6am - 10pm",
-                "handicap": false,
-                "likes": 0,
-                "dislikes": 0
-            },
-            {
-                "id": 8,
-                "name": "Bronx Park",
-                "address": "E219 St & W/S Bronx Park",
-                "borough": "Bronx",
-                "type": "Public",
-                "image": "/rrphotos/bxpark.jpeg",
-                "hours": "park hours",
-                "handicap": false,
-                "likes": 0,
-                "dislikes": 0
-            },
-            {
-                "id": 9,
-                "name": "Virginia Playground",
-                "address": "Virginia Ave & McGraw Ave.",
-                "borough": "Bronx",
-                "type": "Public",
-                "image": "/rrphotos/virginia parkbx.jpeg",
-                "hours": "park hours",
-                "handicap": false,
-                "likes": 0,
-                "dislikes": 0
-            },
-            {
-                "id": 10,
-                "name": "Lost Battalion Hall",
-                "address": "93-29 Queens Blvd, Rego Park",
-                "borough": "Queens",
-                "type": "Public",
-                "image": "/rrphotos/lostbattalionqns.jpeg",
-                "hours": "M-F 8am-10pm, Saturday: 9am-5pm",
-                "handicap": true,
-                "likes": 0,
-                "dislikes": 0
-            },
-            {
-                "id": 11,
-                "name": "Hoffman Park",
-                "address": "Hoffman Dr.",
-                "borough": "Queens",
-                "type": "Public",
-                "image": "/rrphotos/hoffmanparkqns.jpeg",
-                "hours": "6am - 9pm",
-                "handicap": false,
-                "likes": 0,
-                "dislikes": 0
-            },
-            {
-                "id": 12,
-                "name": "New Yorker Hotel",
-                "address": "481 8th Ave",
-                "borough": "Manhattan",
-                "type": "hotel",
-                "image": "/rrphotos/newyorkerhotel.jpeg",
-                "hours": "24 hours",
-                "handicap": true,
-                "likes": 0,
-                "dislikes": 0
-            },
-            {
-                "id": 13,
-                "name": "Barnes & Noble",
-                "address": "33 E17th St",
-                "borough": "Manhattan",
-                "type": "Bookstore",
-                "image": "/rrphotos/barnes-nobleny.jpeg",
-                "hours": "Mon-Sat 9am-9pm, Sun 10am-8pm",
-                "handicap": true,
-                "likes": 0,
-                "dislikes": 0
-            },
-            {
-                "id": 14,
-                "name": "Strand",
-                "address": "Columbus Ave.",
-                "borough": "Manhattan",
-                "type": "Bookstore",
-                "image": "/rrphotos/stranduws.png",
-                "hours": "11am - 7pm ",
-                "handicap": false,
-                "likes": 0,
-                "dislikes": 0
-            },
-            {
-                "id": 15,
-                "name": "Staten Island Mall",
-                "address": "2655 Richmond Ave",
-                "borough": "Staten Island",
-                "type": "Mall",
-                "image": "/rrphotos/simall.jpeg",
-                "hours": "Mon-Thurs 11am-7pm, Fri-Sat 11am-8pm, Sun 11am-6pm",
-                "handicap": true,
-                "likes": 0,
-                "dislikes": 0
-            },
-            {
-                "id": 16,
-                "name": "Starbucks",
-                "address": "480 Forest Ave.",
-                "borough": "Staten Island",
-                "type": "Coffee Shop",
-                "image": "/rrphotos/starbucksi.jpeg",
-                "hours": "daily: 6am-8pm",
-                "handicap": false,
-                "likes": 0,
-                "dislikes": 0
-            },
-            {
-                "id": 17,
-                "name": "McDonald's",
-                "address": "1101 E. Tremont Ave.",
-                "borough": "Bronx",
-                "type": "test",
-                "image": "/rrphotos/mcdonaldsbx.jpeg",
-                "hours": "daily: 5am-11pm",
-                "handicap": false,
-                "likes": 0,
-                "dislikes": 0
-            },
-            {
-                "id": 18,
-                "name": "Queens Center",
-                "address": "90-15 Queens Blvd",
-                "borough": "Queens",
-                "type": "Mall",
-                "image": "/rrphotos/queenscenter.jpeg",
-                "hours": "Sun-Thurs 11am-7pm, Fri-Sat 11am-8pm",
-                "handicap": true,
-                "likes": 0,
-                "dislikes": 0
-            },
-            {
-                "id": 19,
-                "name": "Clove Lakes Park",
-                "address": "Clove Lakes Park",
-                "borough": "Staten Island",
-                "type": "publc",
-                "image": "/rrphotos/clovelakesi.jpeg",
-                "hours": "daily: 8am-4pm",
-                "handicap": true,
-                "likes": 0,
-                "dislikes": 0
-            },
-            {
-                "id": 20,
-                "name": "Manhattan Mall",
-                "address": "33rd St & 6th Ave.",
-                "borough": "Manhattan",
-                "type": "Mall",
-                "image": "/rrphotos/manhattanmall.jpeg",
-                "hours": "Sun-Fri 9am-9:30pm, Sat 10am-8:30pm",
-                "handicap": true,
-                "likes": 0,
-                "dislikes": 0
-                }
-        ],
-        "users": [
-            {
-                "id": 1,
-                "name": "testificate"
-            },
-            {
-                "id": 2,
-                "name": "testificate"
-            }
-        ],
-        "comments": [
-            {
-                "id": 1,
-                "author": "Thor",
-                "content": "Super clean so huge respecto to the people who workt there",
-                "restroomId": 1
-            },
-            {
-                "id": 2,
-                "author": "Dr. Rachel Smerd",
-                "content": "Definitely didn't expect a public restroom to be so clean, so sleek and so classy in the heart of NYC. Flowers, arts, marbles, and classical/soothing music plays in the restroom...",
-                "restroomId": 1
-            },
-            {
-                "id": 3,
-                "author": "Sean Penn",
-                "content": "WHEN YOU GOTTA GO, YOU GOTTA GO",
-                "restroomId": 2
-            },
-            {
-                "id": 4,
-                "author": "Sir LanceAlot ",
-                "content": "it's usually locked but saved me from some embarrassment ",
-                "restroomId": 2
-            },{
-                "id": 5,
-                "author": "Malcolm Runganga",
-                "content": "never have any toilet paper",
-                "restroomId": 3
-            },
-            {
-                "id": 6,
-                "author": "Joexzilla",
-                "content": "no real place to hold my mcflurry by the sink.",
-                "restroomId": 3
-            },
-            {
-                "id": 7,
-                "author": "Amelia G",
-                "content": "Nice Whole Foods, and very big. Got me a nice rotisserie chicken on my way out of the bathroom.",
-                "restroomId": 4
-            },
-            {
-                "id": 8,
-                "author": "Roger Guan",
-                "content": "Really crowded inside, no limits on the number of people.",
-                "restroomId": 4
-            },
-            {
-                "id": 9,
-                "author": "Emani C.",
-                "content": "Bathrooms were clean! But I love whole foods to death but ever since Amazon has owned it the vegan cake options in the bakery have been taken away , and the coupon Amazon gives only takes off a tiny amount . The prices seem to have increased as well . I was a loyal customer to Whole Foods but if your gonna take away options for us vegans and leave us with the frozen dry expired dessert foods to survive off of I’ll take my money else where along with my friends and other family members who so happen to be vegan as well. It’s important to take all customers into consideration.",
-                "restroomId": 4
-            },
-            {
-                "id": 10,
-                "author": "Eric C.",
-                "content": "It's a great Starbucks considering the high density area it's in. The staff is incredibly efficient and polite, needed a code to get into the restroom.",
-                "restroomId": 6
-            },
-            {
-                "id": 11,
-                "author": "Jane Withers",
-                "content": "There's only one bathroom, which is fine sicne it's a small shop. FURMANS NOW SELLS PLANTS",
-                "restroomId": 5
-            },
-            {
-                "id": 2,
-                "author": "Dr. Rachel Smerd",
-                "content": "Restroom at my office was out of order.",
-                "restroomId": 8
-            },
-            {
-                "id": 12,
-                "author": "Mr. Han",
-                "content": "It was okay for a park restroom",
-                "restroomId": 9
-            },
-            {
-                "id": 12,
-                "author": "Sydney",
-                "content": "i was a tourist in new york and found it really difficult to find restroom. workers here were very accomadating",
-                "restroomId": 10
-            },
-            {
-                "id": 13,
-                "author": "Lily",
-                "content": "Always my go-to spot when I'm in the area!",
-                "restroomId": 13
-            },
-            {
-                "id": 2,
-                "author": "Stephanie Rogers",
-                "content": "I usually spend most of the day here. I have a small bladder so I frequent the toilet, attendants do a great job keeping it clean!",
-                "restroomId": 15
-            },
-            {
-                "id": 2,
-                "author": "Chansey",
-                "content": "beautiful area. well maintained restrooms throughout.",
-                "restroomId": 19
-            }
-        ]
+  "restrooms": [
+    {
+      "id": 1,
+      "name": "Bryant Park",
+      "address": "58 W 42nd St",
+      "borough": "Manhattan",
+      "type": "Public",
+      "image": "/rrphotos/Bryant-Park-Bathrooms-Landmark-Beautiful-42nd-Street-Redesign-Grand-Opening-Manhattan-Park-NYC.jpg",
+      "handicap": true,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "id": 2,
+      "name": "125th St. Subway Station",
+      "address": "125th between St. Nicholas Ave & Frederick Douglass Blvd.",
+      "borough": "Manhattan",
+      "type": "Public",
+      "image": "/rrphotos/125th subway.jpeg",
+      "hours": "7am- 11pm",
+      "handicap": false,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "id": 3,
+      "name": "McDonald's",
+      "address": "34th St and 10th Ave.",
+      "borough": "Manhattan",
+      "type": "Fast-Food",
+      "image": "/rrphotos/Mcdonalds34.jpg",
+      "hours": "24 hours",
+      "handicap": false,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "id": 4,
+      "name": "Whole Foods",
+      "address": "214 3rd St",
+      "borough": "Brooklyn",
+      "type": "Grocery",
+      "image": "/rrphotos/wholefoodsbk.jpeg",
+      "hours": "Daily: 8am-11pm",
+      "handicap": false,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "id": 5,
+      "name": "Furman's Coffee",
+      "address": "547 Nostrand Ave",
+      "borough": "Brooklyn",
+      "type": "Coffee Shop",
+      "image": "/rrphotos/furmansbk.jpeg",
+      "hours": "Mon-Thurs 6am-5pm, Fri 6am-5pm, Sat 7am-3:30pm, Sun 7am-5pm",
+      "handicap": false,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "id": 6,
+      "name": "Starbucks",
+      "address": "6423 18th Ave",
+      "borough": "Brooklyn",
+      "type": "Coffee Shop",
+      "image": "/rrphotos/starbucksbk.jpeg",
+      "hours": 0,
+      "handicap": false,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "id": 7,
+      "name": "Pathmark",
+      "address": "1525 Albany Ave.",
+      "borough": "Brooklyn",
+      "type": "Grocery",
+      "image": "/rrphotos/pathmarkbk.jpeg",
+      "hours": "Daily: 6am - 10pm",
+      "handicap": false,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "id": 8,
+      "name": "Bronx Park",
+      "address": "E219 St & W/S Bronx Park",
+      "borough": "Bronx",
+      "type": "Public",
+      "image": "/rrphotos/bxpark.jpeg",
+      "hours": "park hours",
+      "handicap": false,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "id": 9,
+      "name": "Virginia Playground",
+      "address": "Virginia Ave & McGraw Ave.",
+      "borough": "Bronx",
+      "type": "Public",
+      "image": "/rrphotos/virginia parkbx.jpeg",
+      "hours": "park hours",
+      "handicap": false,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "id": 10,
+      "name": "Lost Battalion Hall",
+      "address": "93-29 Queens Blvd, Rego Park",
+      "borough": "Queens",
+      "type": "Public",
+      "image": "/rrphotos/lostbattalionqns.jpeg",
+      "hours": "M-F 8am-10pm, Saturday: 9am-5pm",
+      "handicap": true,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "id": 11,
+      "name": "Hoffman Park",
+      "address": "Hoffman Dr.",
+      "borough": "Queens",
+      "type": "Public",
+      "image": "/rrphotos/hoffmanparkqns.jpeg",
+      "hours": "6am - 9pm",
+      "handicap": false,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "id": 12,
+      "name": "New Yorker Hotel",
+      "address": "481 8th Ave",
+      "borough": "Manhattan",
+      "type": "hotel",
+      "image": "/rrphotos/newyorkerhotel.jpeg",
+      "hours": "24 hours",
+      "handicap": true,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "id": 13,
+      "name": "Barnes & Noble",
+      "address": "33 E17th St",
+      "borough": "Manhattan",
+      "type": "Bookstore",
+      "image": "/rrphotos/barnes-nobleny.jpeg",
+      "hours": "Mon-Sat 9am-9pm, Sun 10am-8pm",
+      "handicap": true,
+      "likes": 4,
+      "dislikes": 0
+    },
+    {
+      "id": 14,
+      "name": "Strand",
+      "address": "Columbus Ave.",
+      "borough": "Manhattan",
+      "type": "Bookstore",
+      "image": "/rrphotos/stranduws.png",
+      "hours": "11am - 7pm ",
+      "handicap": false,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "id": 15,
+      "name": "Staten Island Mall",
+      "address": "2655 Richmond Ave",
+      "borough": "Staten Island",
+      "type": "Mall",
+      "image": "/rrphotos/simall.jpeg",
+      "hours": "Mon-Thurs 11am-7pm, Fri-Sat 11am-8pm, Sun 11am-6pm",
+      "handicap": true,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "id": 16,
+      "name": "Starbucks",
+      "address": "480 Forest Ave.",
+      "borough": "Staten Island",
+      "type": "Coffee Shop",
+      "image": "/rrphotos/starbucksi.jpeg",
+      "hours": "daily: 6am-8pm",
+      "handicap": false,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "id": 17,
+      "name": "McDonald's",
+      "address": "1101 E. Tremont Ave.",
+      "borough": "Bronx",
+      "type": "test",
+      "image": "/rrphotos/mcdonaldsbx.jpeg",
+      "hours": "daily: 5am-11pm",
+      "handicap": false,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "id": 18,
+      "name": "Queens Center",
+      "address": "90-15 Queens Blvd",
+      "borough": "Queens",
+      "type": "Mall",
+      "image": "/rrphotos/queenscenter.jpeg",
+      "hours": "Sun-Thurs 11am-7pm, Fri-Sat 11am-8pm",
+      "handicap": true,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "id": 19,
+      "name": "Clove Lakes Park",
+      "address": "Clove Lakes Park",
+      "borough": "Staten Island",
+      "type": "publc",
+      "image": "/rrphotos/clovelakesi.jpeg",
+      "hours": "daily: 8am-4pm",
+      "handicap": true,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "id": 20,
+      "name": "Manhattan Mall",
+      "address": "33rd St & 6th Ave.",
+      "borough": "Manhattan",
+      "type": "Mall",
+      "image": "/rrphotos/manhattanmall.jpeg",
+      "hours": "Sun-Fri 9am-9:30pm, Sat 10am-8:30pm",
+      "handicap": true,
+      "likes": 0,
+      "dislikes": 0
     }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "testificate"
+    },
+    {
+      "id": 2,
+      "name": "testificate"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "author": "Thor",
+      "content": "Super clean so huge respecto to the people who workt there",
+      "restroomId": 1
+    },
+    {
+      "id": 2,
+      "author": "Dr. Rachel Smerd",
+      "content": "Definitely didn't expect a public restroom to be so clean, so sleek and so classy in the heart of NYC. Flowers, arts, marbles, and classical/soothing music plays in the restroom...",
+      "restroomId": 1
+    },
+    {
+      "id": 3,
+      "author": "Sean Penn",
+      "content": "WHEN YOU GOTTA GO, YOU GOTTA GO",
+      "restroomId": 2
+    },
+    {
+      "id": 4,
+      "author": "Sir LanceAlot ",
+      "content": "it's usually locked but saved me from some embarrassment ",
+      "restroomId": 2
+    },
+    {
+      "id": 5,
+      "author": "Malcolm Runganga",
+      "content": "never have any toilet paper",
+      "restroomId": 3
+    },
+    {
+      "id": 6,
+      "author": "Joexzilla",
+      "content": "no real place to hold my mcflurry by the sink.",
+      "restroomId": 3
+    },
+    {
+      "id": 7,
+      "author": "Amelia G",
+      "content": "Nice Whole Foods, and very big. Got me a nice rotisserie chicken on my way out of the bathroom.",
+      "restroomId": 4
+    },
+    {
+      "id": 8,
+      "author": "Roger Guan",
+      "content": "Really crowded inside, no limits on the number of people.",
+      "restroomId": 4
+    },
+    {
+      "id": 9,
+      "author": "Emani C.",
+      "content": "Bathrooms were clean! But I love whole foods to death but ever since Amazon has owned it the vegan cake options in the bakery have been taken away , and the coupon Amazon gives only takes off a tiny amount . The prices seem to have increased as well . I was a loyal customer to Whole Foods but if your gonna take away options for us vegans and leave us with the frozen dry expired dessert foods to survive off of I’ll take my money else where along with my friends and other family members who so happen to be vegan as well. It’s important to take all customers into consideration.",
+      "restroomId": 4
+    },
+    {
+      "id": 10,
+      "author": "Eric C.",
+      "content": "It's a great Starbucks considering the high density area it's in. The staff is incredibly efficient and polite, needed a code to get into the restroom.",
+      "restroomId": 6
+    },
+    {
+      "id": 11,
+      "author": "Jane Withers",
+      "content": "There's only one bathroom, which is fine sicne it's a small shop. FURMANS NOW SELLS PLANTS",
+      "restroomId": 5
+    },
+    {
+      "id": 12,
+      "author": "Dr. Rachel Smerd",
+      "content": "Restroom at my office was out of order.",
+      "restroomId": 8
+    },
+    {
+      "id": 13,
+      "author": "Mr. Han",
+      "content": "It was okay for a park restroom",
+      "restroomId": 9
+    },
+    {
+      "id": 14,
+      "author": "Sydney",
+      "content": "i was a tourist in new york and found it really difficult to find restroom. workers here were very accomadating",
+      "restroomId": 10
+    },
+    {
+      "id": 15,
+      "author": "Lily",
+      "content": "Always my go-to spot when I'm in the area!",
+      "restroomId": 13
+    },
+    {
+      "id": 16,
+      "author": "Stephanie Rogers",
+      "content": "I usually spend most of the day here. I have a small bladder so I frequent the toilet, attendants do a great job keeping it clean!",
+      "restroomId": 15
+    },
+    {
+      "id": 17,
+      "author": "Chansey",
+      "content": "beautiful area. well maintained restrooms throughout.",
+      "restroomId": 19
+    }
+  ]
+}
