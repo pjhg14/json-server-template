@@ -395,6 +395,12 @@
       "content": "2 floors of bathrooms!",
       "restroomId": 13,
       "id": 24
+    },
+    {
+      "author": "Anon",
+      "content": "no toilet paper. had to use newspaper.",
+      "restroomId": 2,
+      "id": 25
     }
   ]
 }
