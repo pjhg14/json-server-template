@@ -7,9 +7,10 @@
       "borough": "Manhattan",
       "type": "Public",
       "image": "/rrphotos/Bryant-Park-Bathrooms-Landmark-Beautiful-42nd-Street-Redesign-Grand-Opening-Manhattan-Park-NYC.jpg",
+      "hours": "Daily 7am-9pm",
       "handicap": true,
-      "likes": 4,
-      "dislikes": 0
+      "likes": 2,
+      "dislikes": 1
     },
     {
       "id": 2,
@@ -18,7 +19,7 @@
       "borough": "Manhattan",
       "type": "Public",
       "image": "/rrphotos/125th subway.jpeg",
-      "hours": "7am- 11pm",
+      "hours": "Daily 7am- 11pm",
       "handicap": false,
       "likes": 0,
       "dislikes": 0
@@ -33,7 +34,7 @@
       "hours": "24 hours",
       "handicap": false,
       "likes": 0,
-      "dislikes": 0
+      "dislikes": 2
     },
     {
       "id": 4,
@@ -42,10 +43,10 @@
       "borough": "Brooklyn",
       "type": "Grocery",
       "image": "/rrphotos/wholefoodsbk.jpeg",
-      "hours": "Daily: 8am-11pm",
+      "hours": "Daily 8am-11pm",
       "handicap": false,
-      "likes": 0,
-      "dislikes": 0
+      "likes": 7,
+      "dislikes": 1
     },
     {
       "id": 5,
@@ -66,7 +67,7 @@
       "borough": "Brooklyn",
       "type": "Coffee Shop",
       "image": "/rrphotos/starbucksbk.jpeg",
-      "hours": 0,
+      "hours": "Daily 6:30am-8pm",
       "handicap": false,
       "likes": 0,
       "dislikes": 0
@@ -78,7 +79,7 @@
       "borough": "Brooklyn",
       "type": "Grocery",
       "image": "/rrphotos/pathmarkbk.jpeg",
-      "hours": "Daily: 6am - 10pm",
+      "hours": "Daily 6am-10pm",
       "handicap": false,
       "likes": 0,
       "dislikes": 0
@@ -90,9 +91,9 @@
       "borough": "Bronx",
       "type": "Public",
       "image": "/rrphotos/bxpark.jpeg",
-      "hours": "park hours",
+      "hours": "Park hours",
       "handicap": false,
-      "likes": 0,
+      "likes": 1,
       "dislikes": 0
     },
     {
@@ -102,7 +103,7 @@
       "borough": "Bronx",
       "type": "Public",
       "image": "/rrphotos/virginia parkbx.jpeg",
-      "hours": "park hours",
+      "hours": "Park hours",
       "handicap": false,
       "likes": 0,
       "dislikes": 0
@@ -114,7 +115,7 @@
       "borough": "Queens",
       "type": "Public",
       "image": "/rrphotos/lostbattalionqns.jpeg",
-      "hours": "M-F 8am-10pm, Saturday: 9am-5pm",
+      "hours": "Mon-Fri 8am-10pm, Sat: 9am-5pm",
       "handicap": true,
       "likes": 0,
       "dislikes": 0
@@ -126,7 +127,7 @@
       "borough": "Queens",
       "type": "Public",
       "image": "/rrphotos/hoffmanparkqns.jpeg",
-      "hours": "6am - 9pm",
+      "hours": "Daily 6am - 9pm",
       "handicap": false,
       "likes": 0,
       "dislikes": 0
@@ -140,7 +141,7 @@
       "image": "/rrphotos/newyorkerhotel.jpeg",
       "hours": "24 hours",
       "handicap": true,
-      "likes": 0,
+      "likes": 1,
       "dislikes": 0
     },
     {
@@ -152,7 +153,7 @@
       "image": "/rrphotos/barnes-nobleny.jpeg",
       "hours": "Mon-Sat 9am-9pm, Sun 10am-8pm",
       "handicap": true,
-      "likes": 4,
+      "likes": 23,
       "dislikes": 0
     },
     {
@@ -162,9 +163,9 @@
       "borough": "Manhattan",
       "type": "Bookstore",
       "image": "/rrphotos/stranduws.png",
-      "hours": "11am - 7pm ",
+      "hours": "Daily 11am-7pm ",
       "handicap": false,
-      "likes": 0,
+      "likes": 3,
       "dislikes": 0
     },
     {
@@ -176,7 +177,7 @@
       "image": "/rrphotos/simall.jpeg",
       "hours": "Mon-Thurs 11am-7pm, Fri-Sat 11am-8pm, Sun 11am-6pm",
       "handicap": true,
-      "likes": 0,
+      "likes": 2,
       "dislikes": 0
     },
     {
@@ -186,9 +187,9 @@
       "borough": "Staten Island",
       "type": "Coffee Shop",
       "image": "/rrphotos/starbucksi.jpeg",
-      "hours": "daily: 6am-8pm",
+      "hours": "Daily 6am-8pm",
       "handicap": false,
-      "likes": 0,
+      "likes": 1,
       "dislikes": 0
     },
     {
@@ -198,7 +199,7 @@
       "borough": "Bronx",
       "type": "test",
       "image": "/rrphotos/mcdonaldsbx.jpeg",
-      "hours": "daily: 5am-11pm",
+      "hours": "Daily 5am-11pm",
       "handicap": false,
       "likes": 0,
       "dislikes": 1
@@ -222,9 +223,9 @@
       "borough": "Staten Island",
       "type": "publc",
       "image": "/rrphotos/clovelakesi.jpeg",
-      "hours": "daily: 8am-4pm",
+      "hours": "Daily 8am-4pm",
       "handicap": true,
-      "likes": 0,
+      "likes": 8,
       "dislikes": 0
     },
     {
@@ -331,8 +332,8 @@
     },
     {
       "id": 14,
-      "author": "Sydney",
-      "content": "i was a tourist in new york and found it really difficult to find restroom. workers here were very accomadating",
+      "author": "Jared",
+      "content": "ended up playing some ball after using their facilities. 5/5 will recommend",
       "restroomId": 10
     },
     {
@@ -352,6 +353,48 @@
       "author": "Chansey",
       "content": "beautiful area. well maintained restrooms throughout.",
       "restroomId": 19
+    },
+    {
+      "author": "Anon",
+      "content": "",
+      "restroomId": 15,
+      "id": 18
+    },
+    {
+      "author": "Anon",
+      "content": "i am a tourist from sweden. it is very difficult to find restrooms in new york city! staff was very nice at new yorker hotel",
+      "restroomId": 12,
+      "id": 19
+    },
+    {
+      "author": "Anon",
+      "content": "a lot of pigeons here.",
+      "restroomId": 8,
+      "id": 20
+    },
+    {
+      "author": "Anon",
+      "content": "plenty of stalls",
+      "restroomId": 20,
+      "id": 21
+    },
+    {
+      "author": "Anon",
+      "content": "had to buy a cheeseburger to use the restroom. should have gotten the big mac though. icecream machine still broken",
+      "restroomId": 17,
+      "id": 22
+    },
+    {
+      "author": "Anon",
+      "content": "nice shop",
+      "restroomId": 14,
+      "id": 23
+    },
+    {
+      "author": "Anon",
+      "content": "2 floors of bathrooms!",
+      "restroomId": 13,
+      "id": 24
     }
   ]
 }
