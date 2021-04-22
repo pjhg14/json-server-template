@@ -202,7 +202,7 @@
       "hours": "Daily 5am-11pm",
       "handicap": false,
       "likes": 0,
-      "dislikes": 0
+      "dislikes": 1
     },
     {
       "id": 18,
@@ -244,11 +244,11 @@
   "users": [
     {
       "id": 1,
-      "name": "testificate"
+      "name": "harvey"
     },
     {
       "id": 2,
-      "name": "testificate"
+      "name": "john"
     }
   ],
   "comments": [
