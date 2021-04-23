@@ -249,6 +249,10 @@
     {
       "id": 2,
       "name": "john"
+    },
+    {
+      "name": "Thor",
+      "id": 3
     }
   ],
   "comments": [
@@ -395,6 +399,12 @@
       "content": "2 floors of bathrooms!",
       "restroomId": 13,
       "id": 24
+    },
+    {
+      "author": "john",
+      "content": "Can't believe there are still Pathmarks out there! Doesn't save the state of the bathroom though",
+      "restroomId": 7,
+      "id": 25
     }
   ]
 }
