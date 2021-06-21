@@ -21,8 +21,8 @@
       "image": "/rrphotos/125th subway.jpeg",
       "hours": "Daily 7am- 11pm",
       "handicap": false,
-      "likes": 0,
-      "dislikes": 0
+      "likes": 1,
+      "dislikes": 1
     },
     {
       "id": 3,
@@ -239,6 +239,18 @@
       "handicap": true,
       "likes": 0,
       "dislikes": 0
+    },
+    {
+      "name": "IHOP",
+      "address": "11000 Flatlands Ave",
+      "borough": "Brooklyn",
+      "type": "Restaurant",
+      "image": "https://cdn.usarestaurants.info/assets/uploads/9868e3121d2c883e917be598667d1a59_-united-states-new-york-kings-county-296674-ihophtm.jpg",
+      "hours": "7am-100pm",
+      "handicap": true,
+      "likes": 0,
+      "dislikes": 0,
+      "id": 21
     }
   ],
   "users": [
@@ -253,6 +265,14 @@
     {
       "name": "Thor",
       "id": 3
+    },
+    {
+      "name": "Phil",
+      "id": 4
+    },
+    {
+      "name": "Derrick",
+      "id": 5
     }
   ],
   "comments": [
@@ -405,6 +425,18 @@
       "content": "Can't believe there are still Pathmarks out there! Doesn't save the state of the bathroom though",
       "restroomId": 7,
       "id": 25
+    },
+    {
+      "author": "Guest",
+      "content": "Nice, clean maintained well",
+      "restroomId": 1,
+      "id": 26
+    },
+    {
+      "author": "Derrick",
+      "content": "Great food, great bathroom",
+      "restroomId": 21,
+      "id": 27
     }
   ]
 }
